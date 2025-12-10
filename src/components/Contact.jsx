@@ -23,7 +23,7 @@ const Contact = () => {
       >
         <div className="space-y-6">
 
-          {/* Email */}
+          {/* Email */} 
           <div>
             <p className="text-lg font-semibold">Email:</p>
             <a
