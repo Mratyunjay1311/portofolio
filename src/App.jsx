@@ -1,10 +1,11 @@
 import React from 'react'
-import Page from './components/Page'
+
+  import Layout from './components/layout'
 
 const App = () => {
   return (
     <div>
-      <Page/>
+      <Layout/>
     </div>
   )
 }

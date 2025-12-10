@@ -5,7 +5,7 @@ import About from './About'
 import Projects from './Projects'
 import Contact from './contact'
 
-const Page = () => {
+const Layout = () => {
   return (
     <div>
         <Navbar/>
@@ -17,4 +17,4 @@ const Page = () => {
   )
 }
 
-export default Page
+export default Layout
